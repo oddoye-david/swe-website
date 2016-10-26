@@ -1,0 +1,17 @@
+{
+  "name": "swe",
+  "version": "1.0.0",
+  "description": "SWE Website",
+  "main": "server.js",
+  "repository": {
+    "url": "git@github.com:oddoye-david/swe-website.git",
+    "type": "git"
+  },
+  "author": "David Oddoye <oddoyedavid@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^4.0.5",
+    "hapi": "^15.2.0",
+    "vision": "^4.1.0"
+  }
+}
